@@ -1,0 +1,14 @@
+	# exclude everything except directories src and 
+    #*
+	#*/
+    #!/src
+    #!/resources   
+	
+
+# intellij
+**/.idea/
+*.iml
+
+# maven
+**/target/
+
